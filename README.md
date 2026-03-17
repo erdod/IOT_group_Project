@@ -6,4 +6,4 @@
 * Andrea Folino, 1986019 - www.linkedin.com/in/andrea-folino-981aa5322
 
 ## First Delivery - Pitch Presentation
-🔗 [Link alla presentazione di 2 minuti]
+https://docs.google.com/presentation/d/1J0FUxKiXdDTdHcHqKtD6xgWCg04iegpBqZ4AvHhW7Qk/edit?usp=sharing
